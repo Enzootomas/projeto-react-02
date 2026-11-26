@@ -54,11 +54,12 @@ function PaginaPublicacoes({
           <span className="etiqueta">AULA 09 — PROJETO REACT 02</span>
           <h1>Portal Acadêmico de Publicações</h1>
           <p>
-            Aplicação React demonstrando <strong>State (`useState`)</strong>,{" "}
-            <strong>Formulários Controlados</strong>,{" "}
-            <strong>`useEffect` com limpeza</strong>,{" "}
-            <strong>Consumo de APIs (`GET` e `POST`)</strong> e{" "}
-            <strong>React Router (`Link` e `useParams`)</strong>.
+            Aplicação React demonstrando <strong>State</strong> (
+            <code>useState</code>), <strong>Formulários Controlados</strong>,{" "}
+            <code>useEffect</code> com limpeza,{" "}
+            <strong>Consumo de APIs</strong> (<code>GET</code> e{" "}
+            <code>POST</code>) e <strong>React Router</strong> (
+            <code>Link</code> e <code>useParams</code>).
           </p>
         </div>
         <Link to="/nova" className="btn-primario">
