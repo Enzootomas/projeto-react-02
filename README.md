@@ -2,6 +2,9 @@
 
 Aplicação Front-end responsiva desenvolvida com **React 19, Vite e React Router 7** para atender integralmente à **Atividade Prática da Aula 09 (Projeto React 02)** da disciplina de **Frameworks Front-end** (SENAI).
 
+- **Deploy em Produção (Vercel):** [🌐 Ver online](https://projeto-react-02-zeta.vercel.app)
+- **Repositório GitHub:** [🔗 Repositório](https://github.com/Enzootomas/projeto-react-02)
+
 ---
 
 ## 📸 Captura de Tela da Aplicação em Funcionamento
