@@ -1,0 +1,21 @@
+{
+  "name": "projeto-react-02",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Aplicação React aplicando State/useState, Formulários Controlados, useEffect com limpeza, Consumo de APIs (GET e POST) e React Router com useParams (Aula 09 — SENAI).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.9.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.0",
+    "vite": "^8.2.2"
+  }
+}
